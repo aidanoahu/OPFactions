@@ -1,0 +1,71 @@
+name: OPFactions
+version: 1.0-SNAPSHOT
+author: Oahu
+main: network.ethyl.opfactions.OPFactionsCore
+depend: [Factions, KoTH, Vault, PermissionsEx, Votifier]
+
+commands:
+  pot:
+    description: Stack potions in your inventory
+    aliases: [potion, stack]
+  donate:
+    description: Link to the store
+    aliases: [store, shop]
+  reddit:
+    description: Link to the website
+    aliases: [website, forum, forums]
+  ping:
+    description: Check ping of a player
+  teamspeak:
+    description: Show teamspeak IP
+    aliases: [ts, ts3]
+  twitter:
+    description: Show twitter @ and link
+  stats:
+    description: Display kills, deaths, kdr, head worth, faction
+    aliases: [kills, deaths, kdr]
+  statsreset:
+    description: Reset stats of a specific player
+  rename:
+    description: Rename armor and weapons
+    aliases: [setname, changename]
+  lms:
+    description: Main LMS command
+  discord:
+    description: Link to the discord
+  killstreak:
+    description: Show available killstreaks
+    aliases: [ks]
+  help:
+    description: Detailed information about the server
+  snowball:
+    description: Give players special snowballs
+  givekothcrate:
+    description: Give players the KoTH crate
+  givekothkey:
+    description: Give players the KoTH key
+  kothloot:
+    description: Show available KoTH loot
+  givespawner:
+    description: Give players spawners
+  lore:
+    description: Add lore to item in hand
+    aliases: [setlore, addlore]
+  chatcolor:
+    description: Set chat color
+  namemc:
+    description: Vote for the server on NameMC
+  perks:
+    description: View available perks
+  reclaim:
+    description: Reclaim rewards for having a rank
+    aliases: [claim]
+  invrestore:
+    description: Staff command to roll back a players previous inventory
+  duel:
+    description: Duel other players
+  potions:
+    description: Donator command to get a stack of each pvp potion
+  borders:
+    description: Display the borders of the worlds on the server
+    aliases: [border]

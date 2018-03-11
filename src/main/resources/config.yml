@@ -1,0 +1,110 @@
+# LMS Data
+spawn:
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0
+  pitch: 0
+  world: world
+
+lobby:
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0
+  pitch: 0
+  world: world
+
+vote party: 0
+
+# KoTH Crate Data
+koth crate:
+  x: 0
+  y: 0
+  z: 0
+  world: world
+
+# Duels Data
+duels:
+  location1:
+  location2:
+
+  blocked duel commands:
+    - lms
+    - test
+    - test
+    - test
+    - etc
+
+# Configurable features
+Blocked commands:
+  - pv
+  - spawn
+
+random broadcasts:
+  - '&cEthyl &7» &7Join our Discord server at &6&odiscord.gg/ygkZQMk&7!'
+  - '&cEthyl &7» &7Follow us on Twitter at &6&otwitter.com/EthylNetwork&7!'
+
+death terms:
+  - bodied
+  - mauled
+  - destroyed
+  - comboed
+  - SMASHED
+
+tabcolor:
+  Default: §7
+  Magician: §a
+  Sobek: §a
+  Bast: §a
+  Thoth: §a
+  Nephthys: §a
+  Chaos: §a
+  Horus: §a
+  Anubis: §a
+  Osiris: §e
+  Apophis: §6
+  Vengeance: §8§l
+  Translator: §6
+  Builder: §9
+  YouTube: §4
+  Twitch: §5
+  Famous: §d
+  Trial: §3
+  Mod: §5
+  Mod+: §5§o
+  Admin: §c§o
+  SeniorAdmin: §c§l
+  Developer: §4§o
+  Owner: §4§l
+
+
+perk signs:
+  magician:
+    - 'test'
+  sobek:
+    - 'test'
+  bast:
+    - 'test'
+  thoth:
+    - 'test'
+  nephthys:
+    - 'test'
+  chaos:
+    - 'test'
+  horus:
+    - 'test'
+  anubis:
+    - 'test'
+  osiris:
+    - 'test'
+  apophis:
+    - 'test'
+  vengeance:
+    - 'test'
+  ra kit:
+    - 'test'
+  geb kit:
+    - 'test'
+  ptah kit:
+    - 'test'
